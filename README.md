@@ -1,5 +1,5 @@
 
-# German Natural Language Processing
+# German Natural Language Processing Demo
 ## 9 Oct 2018
 
 ###  Installation Instructions
